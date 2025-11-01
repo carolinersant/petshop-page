@@ -10,7 +10,7 @@ Esta **Fase 1** concentra-se exclusivamente na construção da **estrutura funda
 
 ## 🎯 Objetivo da Fase
 
-[cite_start]O objetivo desta fase foi desenvolver o esqueleto HTML do sistema, garantindo que todas as páginas estivessem construídas e interligadas por meio de hiperlinks, conforme as exigências do projeto da disciplina.
+O objetivo desta fase foi desenvolver o esqueleto HTML do sistema, garantindo que todas as páginas estivessem construídas e interligadas por meio de hiperlinks, conforme as exigências do projeto da disciplina.
 
 ## ✨ Funcionalidades Entregues (Apenas HTML)
 
@@ -19,8 +19,8 @@ As seguintes funcionalidades foram implementadas utilizando as tags HTML:
 * **Estrutura da Página:** O arquivo principal (`index.html`) e a estrutura de diretórios (`img/`) estão prontos para receber o conteúdo.
 * **Conteúdo Estático:** O site apresenta os títulos, textos e informações de produtos (Rações, Acessórios) de forma estática.
 * **Semântica:** Utilização de tags HTML básicas (`<h1>`, `<p>`, `<img>`, `<a>`) para garantir a estrutura correta e significativa do conteúdo.
-* [cite_start]**Navegação:** Implementação de hiperlinks (`<a>`) entre as seções para garantir que a navegação básica do sistema esteja funcional.
-* [cite_start]**Recursos Visuais:** Inclusão de imagens de produtos (com caminhos ajustados para o GitHub Pages).
+* **Navegação:** Implementação de hiperlinks (`<a>`) entre as seções para garantir que a navegação básica do sistema esteja funcional.
+* **Recursos Visuais:** Inclusão de imagens de produtos (com caminhos ajustados para o GitHub Pages).
 
 ---
 
