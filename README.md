@@ -35,7 +35,7 @@ Você pode visualizar a página web publicada através do GitHub Pages no link a
 
 | Tecnologia | Finalidade |
 | :--- | :--- |
-| **HTML5** | [cite_start]Estrutura e marcação do conteúdo estático. |
+| **HTML5** | Estrutura e marcação do conteúdo estático. |
 | **Git** | Sistema de controle de versão. |
 | **GitHub / GitHub Pages** | Hospedagem dos códigos e publicação do site. |
 
